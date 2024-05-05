@@ -1,6 +1,6 @@
 ### Jumpcutter 2
 
-> Removes scilent frames from videos
+> Removes silent frames from videos
 
 Original code from <a href="https://github.com/carykh/jumpcutter">this</a> repo. A lot of improvements have been made. The output is a number of shorter videos, you need to merge them manuallly (suggested software: Avidemux).
 
